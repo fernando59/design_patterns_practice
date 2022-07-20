@@ -3,7 +3,7 @@
 This is a sample application that implements Desings Pattern.
 
 
-## Run Proyect
+## Run Project
 
 ```
     dotnet run
